@@ -1,0 +1,13 @@
+{
+    "name": "eti/test-monolog",
+    "description": "Aula sobre PSR-3",
+    "authors": [
+        {
+            "name": "Jose Carlos",
+            "email": "josecarlosromeiro1986@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.8"
+    }
+}

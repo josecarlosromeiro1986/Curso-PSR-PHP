@@ -1,0 +1,1 @@
+<?= "Utilizando aoutra forma de impressão" ?>
